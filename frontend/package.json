@@ -58,5 +58,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://mern-ecommerce-0c5k.onrender.com/"
+  "proxy": "https://localhost:4000/"
 }
